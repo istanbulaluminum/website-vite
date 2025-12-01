@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: "Cairo", sans-serif;
+}
+
+
+:root {
+  --grad-start: #e63946;
+  --grad-end: #e69daa;
+}
+
+#e69daa a.active {
+  @apply underline;
+}
+
+.px-res {
+  @apply px-3 sm:px-5 md:px-20 lg:px-32 xl:px-32;
+}
+
+.-px-res {
+  @apply -mx-3 sm:-mx-5 md:-mx-20 lg:-mx-32 xl:-mx-32;
+}
+
+.backdrop-blur--custom {
+  --tw-backdrop-blur: blur(8px);
+}

@@ -1,0 +1,75 @@
+{
+  "home_page": {
+    "hero_section": {
+      "title": "Transform Your Space with Elegant Pergolas",
+      "subtitle": "Welcome to Istanbul Aluminum, where we specialize in high-quality aluminum pergolas designed to enhance your outdoor living experience. Explore our stunning designs and discover how we can bring your vision to life"
+    },
+    "about_section": {
+      "title": "Built for Your Needs",
+      "content": [
+        {
+          "text": "Our aluminum is engineered for durability and elegance, ensuring long-lasting performance in any environment."
+        },
+        {
+          "text": "Choose our products for their strength, lightweight design, and resistance to corrosion, making them ideal for your next project."
+        }
+      ]
+    },
+    "services_section": {
+      "title": "Our Services",
+      "content": [
+        {
+          "title": "Custom Pergola Design",
+          "text": "Tailored designs to fit your unique outdoor space and style."
+        },
+        {
+          "title": "High-Quality Materials",
+          "text": "We use premium aluminum to ensure longevity and aesthetic appeal."
+        },
+        {
+          "title": "Expert Consultation",
+          "text": "Our team provides professional advice to help you choose the perfect pergola solution."
+        }
+      ]
+    }
+  },
+  "about_page": {
+    "hero_section": {
+      "title": "About Istanbul Aluminum"
+    }
+  },
+  "navbar": {
+    "Home": "Home",
+    "About": "About Us",
+    "Services": "Services",
+    "Contact": "Contact",
+    "Products": "Products",
+    "Pergola": "Pergola",
+    "Bioclimatic": "Bioclimatic",
+    "Guillotine Glass": "Guillotine Glass",
+    "Rolling Roof": "Rolling Roof",
+    "Profiles": "Profiles",
+    "Gallery": "Gallery",
+    "Projects in Lebanon": "Projects in Lebanon",
+    "Projects in Turkey": "Projects in Turkey",
+    "Projects in Africa": "Projects in Africa",
+    "Projects in Saudi Arabia": "Projects in Saudi Arabia",
+    "Projects in Europe": "Projects in Europe",
+    "Projects in Libia": "Projects in Libia",
+    "Showrooms": "Showrooms",
+    "Catalogue": "Catalogue"
+  },
+  "buttons": {
+    "order": "Get Pergola",
+    "calc": "Cost Calculator"
+  },
+  "footer": {
+    "content": "Wel sell pergolas, provide 3D service for our customers, and we ship to all countries worldwide.",
+    "address_title": "Visit Us",
+    "address_content": "Mecidiye Mah. Ağrı Cad. No:120 Sultanbeyli - İstanbul / Türkiye",
+    "working_hours": "Working Hours: Monday - Friday, 9:00 AM - 7:00 PM",
+    "Phone:": "Phone:",
+    "Email:": "Email:"
+  },
+  "test": "Test Not Nested"
+}

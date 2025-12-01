@@ -1,0 +1,66 @@
+{
+  "buttons": {
+    "calc": "Maliyet Hesaplayıcı",
+    "order": "Pergola'yı Alın"
+  },
+  "footer": {
+    "Email:": "E-posta:",
+    "Phone:": "Telefon:",
+    "address_content": "Mecidiye Mah. \nAğrı Cad. \nNo:120 Sultanbeyli - İstanbul / Türkiye",
+    "address_title": "Bizi Ziyaret Edin",
+    "content": "Pergola satıyoruz, müşterilerimize 3 boyutlu hizmet sağlıyoruz ve dünya çapındaki tüm ülkelere gönderim yapıyoruz.",
+    "working_hours": "Çalışma Saatleri: Pazartesi - Cuma, 09:00 - 19:00"
+  },
+  "home_page": {
+    "about_section": {
+      "content[0]": {
+        "text": "Alüminyumumuz, her ortamda uzun süreli performans sağlayacak şekilde dayanıklılık ve zarafet için tasarlanmıştır."
+      },
+      "content[1]": {
+        "text": "Ürünlerimizi dayanıklılıkları, hafif tasarımları ve korozyona karşı dirençleri nedeniyle seçin; bu da onları bir sonraki projeniz için ideal kılar."
+      },
+      "title": "İhtiyaçlarınız İçin Tasarlandı"
+    },
+    "hero_section": {
+      "subtitle": "Dış mekan yaşam deneyiminizi geliştirmek için tasarlanmış yüksek kaliteli alüminyum pergolalar konusunda uzmanlaştığımız İstanbul Alüminyum'a hoş geldiniz. \nÇarpıcı tasarımlarımızı keşfedin ve vizyonunuzu nasıl hayata geçirebileceğimizi keşfedin",
+      "title": "Zarif Pergolalarla Mekanınızı Dönüştürün"
+    },
+    "services_section": {
+      "content[0]": {
+        "text": "Benzersiz dış mekan alanınıza ve tarzınıza uyacak şekilde özel tasarımlar.",
+        "title": "Özel Pergola Tasarımı"
+      },
+      "content[1]": {
+        "text": "Uzun ömür ve estetik çekicilik sağlamak için birinci sınıf alüminyum kullanıyoruz.",
+        "title": "Yüksek Kaliteli Malzemeler"
+      },
+      "content[2]": {
+        "text": "Ekibimiz mükemmel pergola çözümünü seçmenize yardımcı olmak için profesyonel tavsiyeler sunar.",
+        "title": "Uzman Danışmanlığı"
+      },
+      "title": "Hizmetlerimiz"
+    }
+  },
+  "navbar": {
+    "About": "Hakkımızda",
+    "Bioclimatic": "Biyoklimatik",
+    "Catalogue": "Katalog",
+    "Contact": "Temas etmek",
+    "Gallery": "Galeri",
+    "Guillotine Glass": "Giyotin Cam",
+    "Home": "Ev",
+    "Pergola": "Pergola",
+    "Products": "Ürünler",
+    "Profiles": "Profiller",
+    "Projects in Africa": "Afrika'daki Projeler",
+    "Projects in Europe": "Avrupa'daki projeler",
+    "Projects in Lebanon": "Lübnan'daki Projeler",
+    "Projects in Libia": "Libya'daki Projeler",
+    "Projects in Saudi Arabia": "Suudi Arabistan'daki Projeler",
+    "Projects in Turkey": "Türkiye'deki Projeler",
+    "Rolling Roof": "Yuvarlanan Çatı",
+    "Services": "Hizmetler",
+    "Showrooms": "Showroomlar"
+  },
+  "test": "Test İç İçe Değil"
+}
